@@ -1,0 +1,37 @@
+.tab_h2{text-align:center;color:#0059b2;}
+.tab_p{ text-align:center; color:#999; letter-spacing:1px;margin:20px; font-size:1.5em; }
+.pp{ margin-top:20px; }
+.ab2_p{ text-align:center; color:#999; letter-spacing:1px;margin:20px; font-size:1.5em; }
+.tab_h2{ text-align: center; line-height: 100px;}
+.text-muted{ text-decoration: line-height; }
+.row{padding: 20px 0;}
+.media-heading{margin-bottom: 20px;}
+
+.tab2 img{ width: 40%; height: 40%; }
+#tab2{ background: #c9c9c9; }
+.footer ul{list-style: none;}
+.footer{ line-height: 60px;background:#ccc;text-align: center; }
+
+.aa{float: right; position: absolute;right: -600px;}
+.bb{float: left;position:absolute;left: -100px;margin-top:80px;margin-left:300px;   }
+
+ul.nav-tabs{width: 140px;margin-top: 20px;border-radius: 4px;border: 1px solid #ddd;box-shadow:0 1px 4px rgba(0,0,0,0.067);}
+ul.nav-tabs li{margin:0;border-top: 1px solid #ddd;}
+ul.nav-tabs li:first-child{border-top:none; }
+ul.nav-tabs li a{margin: 0;padding: 8px 16px;border-radius: 0;}
+ul.nav-tabs li.active a, ul.nav-tabs li.active a:hover{color: #fff;background: #0088cc;border: 1px solid #0088cc; }
+ul.nav-tabs li:first-child a{border-radius: 4px 4px 0 0; }
+ul.nav-tabs li:last-child a{ border-radius: 0 0 4px 4px;}
+ul.nav-tabs.affix{top: 30px; /* Set the top position of pinned element */ }
+
+#bob{background: #b0c4de}
+#tab1{background: #FFF0F5}
+
+.right{background: #ffffff;}
+.left{background: #ffffff;border: 1px solid blue;padding: 10px;margin: 10px;}
+
+.col-md-3{border: 1px;padding: 5px;margin: 5px;}
+.pupu{background: #ffffff}
+
+.xixi{padding: 8px;}
+
